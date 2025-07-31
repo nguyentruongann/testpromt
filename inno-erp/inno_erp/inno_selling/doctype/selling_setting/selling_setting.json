@@ -1,0 +1,59 @@
+{
+	"actions": [],
+	"allow_rename": 1,
+	"creation": "2025-06-16 16:46:27.912474",
+	"doctype": "DocType",
+	"engine": "InnoDB",
+	"field_order": [
+		"allow_trade_with_lower_value",
+		"allow_return_promotion_product",
+		"refund_rule"
+	],
+	"fields": [
+		{
+			"default": "0",
+			"description": "Enable this option to allow returning promotional items (e.g., free gifts) included in the original invoice, ensuring flexibility in return policies",
+			"fieldname": "allow_return_promotion_product",
+			"fieldtype": "Check",
+			"label": "Allow Return Promotion Product"
+		},
+		{
+			"fieldname": "refund_rule",
+			"fieldtype": "Table",
+			"label": "Refund Rule",
+			"options": "Refund Rule"
+		},
+		{
+			"default": "0",
+			"description": "Enable this option to permit transactions where total new items with a lower value than the original invoice can be included during a return process.",
+			"fieldname": "allow_trade_with_lower_value",
+			"fieldtype": "Check",
+			"label": "Allow Trade With Lower Value"
+		}
+	],
+	"grid_page_length": 50,
+	"index_web_pages_for_search": 1,
+	"issingle": 1,
+	"links": [],
+	"modified": "2025-06-23 11:32:21.253178",
+	"modified_by": "Administrator",
+	"module": "Inno Selling",
+	"name": "Selling Setting",
+	"owner": "Administrator",
+	"permissions": [
+		{
+			"create": 1,
+			"delete": 1,
+			"email": 1,
+			"print": 1,
+			"read": 1,
+			"role": "System Manager",
+			"share": 1,
+			"write": 1
+		}
+	],
+	"row_format": "Dynamic",
+	"sort_field": "modified",
+	"sort_order": "DESC",
+	"states": []
+}

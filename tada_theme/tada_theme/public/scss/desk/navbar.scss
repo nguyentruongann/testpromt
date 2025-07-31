@@ -1,0 +1,15 @@
+header.navbar {
+  .awesomplete input {
+    height: 32px;
+  }
+
+  border-bottom: 1px solid var(--gray-150);
+
+  .search-bar {
+    margin: 0;
+  }
+
+  button[aria-controls="toolbar-help"] {
+    display: none;
+  }
+}

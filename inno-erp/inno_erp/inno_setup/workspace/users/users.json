@@ -1,0 +1,203 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"Xz-HUlWyeR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">User</span>\",\"col\":12}},{\"id\":\"1RHw9qYK9s\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"User\",\"col\":3}},{\"id\":\"2LBqPCMUuD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Branch\",\"col\":3}}]",
+ "creation": "2025-05-23 17:15:38.741348",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "users",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "Users",
+ "links": [
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Activity Log",
+   "link_count": 0,
+   "link_to": "Activity Log",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Activity Log",
+   "link_count": 0,
+   "link_to": "Activity Log",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Access Log",
+   "link_count": 0,
+   "link_to": "Access Log",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Access Log",
+   "link_count": 0,
+   "link_to": "Access Log",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Role Permissions Manager",
+   "link_count": 0,
+   "link_to": "permission-manager",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "User Permissions",
+   "link_count": 0,
+   "link_to": "User Permission",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Role Permissions Manager",
+   "link_count": 0,
+   "link_to": "permission-manager",
+   "link_type": "Page",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Role Permission for Page and Report",
+   "link_count": 0,
+   "link_to": "Role Permission for Page and Report",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "User Permissions",
+   "link_count": 0,
+   "link_to": "User Permission",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "User",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Permitted Documents For User",
+   "link_count": 0,
+   "link_to": "Permitted Documents For User",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Role Permission for Page and Report",
+   "link_count": 0,
+   "link_to": "Role Permission for Page and Report",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "DocShare",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Document Share Report",
+   "link_count": 0,
+   "link_to": "Document Share Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "DocShare",
+   "type": "Link"
+  },
+  {
+   "dependencies": "User",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Permitted Documents For User",
+   "link_count": 0,
+   "link_to": "Permitted Documents For User",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "DocShare",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Document Share Report",
+   "link_count": 0,
+   "link_to": "Document Share Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "report_ref_doctype": "DocShare",
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-07-08 14:15:36.137903",
+ "modified_by": "Administrator",
+ "module": "Inno Setup",
+ "name": "Users",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 10.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "User",
+   "link_to": "User",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Branch",
+   "link_to": "Branch",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Users"
+}

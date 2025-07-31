@@ -1,0 +1,120 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-07-21 11:07:59.507134",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "ghtk_tab",
+  "ghtk_section",
+  "ghtk_enable",
+  "ghtk_token",
+  "column_break_drcv",
+  "ghn_section",
+  "ghn_enable",
+  "ghn_token",
+  "column_break_amsw",
+  "viettel_section",
+  "viettel_enable",
+  "viettel_token",
+  "column_break_lovw"
+ ],
+ "fields": [
+  {
+   "fieldname": "ghtk_tab",
+   "fieldtype": "Tab Break",
+   "label": "GHTK"
+  },
+  {
+   "collapsible": 1,
+   "collapsible_depends_on": "ghtk_enable",
+   "fieldname": "ghtk_section",
+   "fieldtype": "Section Break",
+   "label": "GHTK"
+  },
+  {
+   "default": "0",
+   "fieldname": "ghtk_enable",
+   "fieldtype": "Check",
+   "label": "Enable"
+  },
+  {
+   "collapsible": 1,
+   "collapsible_depends_on": "ghn_enable",
+   "fieldname": "ghn_section",
+   "fieldtype": "Section Break",
+   "label": "GHN"
+  },
+  {
+   "default": "0",
+   "fieldname": "ghn_enable",
+   "fieldtype": "Check",
+   "label": "Enable"
+  },
+  {
+   "fieldname": "ghtk_token",
+   "fieldtype": "Password",
+   "label": "Token API"
+  },
+  {
+   "fieldname": "ghn_token",
+   "fieldtype": "Password",
+   "label": "Token API"
+  },
+  {
+   "collapsible": 1,
+   "collapsible_depends_on": "viettel_enable",
+   "fieldname": "viettel_section",
+   "fieldtype": "Section Break",
+   "label": "Viettel Post"
+  },
+  {
+   "default": "0",
+   "fieldname": "viettel_enable",
+   "fieldtype": "Check",
+   "label": "Enable"
+  },
+  {
+   "fieldname": "viettel_token",
+   "fieldtype": "Password",
+   "label": "Token API"
+  },
+  {
+   "fieldname": "column_break_drcv",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_amsw",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_lovw",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-07-29 15:16:47.381462",
+ "modified_by": "Administrator",
+ "module": "Inno Stock",
+ "name": "Delivery Setting",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

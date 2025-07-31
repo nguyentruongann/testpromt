@@ -1,0 +1,41 @@
+.grid-body
+	.highlight-stock-red
+	div:is([data-fieldname="qty"], [data-fieldname="current_qty"], [data-fieldname="quantity_difference"], [data-fieldname="amount_difference"]) {
+	color: red !important;
+}
+
+.grid-body
+	.highlight-stock-green
+	div:is([data-fieldname="qty"], [data-fieldname="current_qty"], [data-fieldname="quantity_difference"], [data-fieldname="amount_difference"]) {
+	color: green !important;
+}
+
+.frappe-list {
+	.list-row-container.template-row-container {
+		border: 1px solid var(--green-300);
+		border-bottom: 0;
+
+		.list-row {
+			background-color: var(--green-50);
+		}
+	}
+
+	.list-row-container.variant-row-container {
+		border: 0;
+		border-left: 1px solid var(--green-300);
+		border-right: 1px solid var(--green-300);
+	}
+
+	.list-row-container.variant-row-container.last-row {
+		border-bottom: 1px solid var(--green-300);
+	}
+}
+
+.cascader-panel {
+	max-height: 400px !important;
+	overflow-y: auto !important;
+}
+.cascader-col {
+	max-height: 380px;
+	overflow-y: auto;
+}

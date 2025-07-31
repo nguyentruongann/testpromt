@@ -1,0 +1,67 @@
+{
+    "actions": [],
+    "allow_rename": 1,
+    "creation": "2025-06-19 14:44:41.270299",
+    "doctype": "DocType",
+    "editable_grid": 1,
+    "engine": "InnoDB",
+    "field_order": [
+        "day_name",
+        "date",
+        "rate",
+        "description",
+        "active"
+    ],
+    "fields": [
+        {
+            "fieldname": "day_name",
+            "fieldtype": "Link",
+            "in_list_view": 1,
+            "in_standard_filter": 1,
+            "label": "Day Name",
+            "options": "Special Day",
+            "reqd": 1
+        },
+        {
+            "fieldname": "description",
+            "fieldtype": "Text",
+            "label": "Description"
+        },
+        {
+            "default": "1",
+            "fieldname": "active",
+            "fieldtype": "Check",
+            "in_list_view": 1,
+            "in_standard_filter": 1,
+            "label": "Active"
+        },
+        {
+            "fieldname": "date",
+            "fieldtype": "Date",
+            "in_list_view": 1,
+            "label": "Date"
+        },
+        {
+            "fieldname": "rate",
+            "fieldtype": "Float",
+            "in_list_view": 1,
+            "label": "Rate",
+            "non_negative": 1,
+            "reqd": 1
+        }
+    ],
+    "grid_page_length": 50,
+    "index_web_pages_for_search": 1,
+    "istable": 1,
+    "links": [],
+    "modified": "2025-07-06 12:30:49.150782",
+    "modified_by": "Administrator",
+    "module": "Inno Account",
+    "name": "Loyalty Program Special Day",
+    "owner": "Administrator",
+    "permissions": [],
+    "row_format": "Dynamic",
+    "sort_field": "modified",
+    "sort_order": "DESC",
+    "states": []
+}

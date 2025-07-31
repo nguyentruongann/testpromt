@@ -1,0 +1,124 @@
+.point-of-sale-app {
+    padding-left: 0;
+    padding-right: 0;
+    min-width: 768px;
+
+
+    &>.items-selector {
+        &>.filter-section {
+            box-shadow: var(--shadow-sm);
+            padding: var(--padding-md);
+            padding-bottom: var(--padding-sm);
+        }
+
+        &>.filter-section>.search-field {
+            grid-column: span 3 / span 3;
+        }
+
+        &>.items-container {
+            padding-top: var(--padding-lg);
+        }
+    }
+
+
+    section {
+        height: calc(100vh - var(--navbar-height) - 4vh);
+        max-height: calc(100vh - var(--navbar-height) - 4vh);
+        min-height: 600px;
+    }
+
+    &>.customer-cart-container>.cart-container>.abs-cart-container {
+        &>.cart-items-section>.cart-item-wrapper {
+            margin-right: 0;
+        }
+
+        .cart-item-wrapper .item-price-list-rate-amount,
+        &>.cart-header>.price-list-amount-header {
+            margin-right: var(--margin-md);
+        }
+
+
+        &>.cart-header>.rate-amount-header {
+            margin-right: 0;
+        }
+
+        .cart-item-wrapper .item-rate-amount {
+            justify-content: center;
+        }
+
+        &>.cart-header>.action-header {
+            margin-right: var(--margin-md);
+        }
+    }
+
+
+
+    .draft-order-wrapper {
+        grid-column: span 8 / span 8;
+
+        .draft-order-list {
+            display: flex;
+            width: 100%;
+            overflow-x: auto;
+            padding-bottom: 8px;
+        }
+
+
+        .draft-order {
+            flex-basis: 100px;
+            flex-grow: 0;
+            flex-shrink: 0;
+            position: relative;
+            padding: 4px 8px;
+            cursor: pointer;
+
+            &:not(:last-child) {
+                border-right: 1px solid var(--gray-100);
+            }
+
+            &:hover {
+                border-radius: var(--border-radius-tiny);
+                background-color: var(--gray-100);
+            }
+
+            &.draft-order-selected {
+                background-color: var(--gray-100);
+            }
+
+
+            .draft-order-remove {
+                position: absolute;
+                top: 2px;
+                right: 5px;
+                padding: 1px 2px;
+                border-radius: 100%;
+                line-height: 1;
+
+                &:hover {
+                    background-color: var(--gray-300);
+                }
+            }
+
+            .draft-order-name {
+                font-size: var(--text-sm);
+                font-weight: var(--weight-semibold);
+                text-overflow: ellipsis;
+            }
+
+            .draft-order-customer {
+                font-size: var(--text-2xtiny);
+                font-weight: var(--weight-regular);
+                text-overflow: ellipsis;
+                overflow: hidden;
+                white-space: nowrap;
+            }
+        }
+
+    }
+
+    .pos-actions {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+}

@@ -1,0 +1,63 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:province_district",
+ "creation": "2025-04-26 22:36:33.856628",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "province_district",
+  "district_code",
+  "country"
+ ],
+ "fields": [
+  {
+   "fieldname": "province_district",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Province - District",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "default": "Vietnam",
+   "fieldname": "country",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Country",
+   "options": "Country",
+   "reqd": 1
+  },
+  {
+   "fieldname": "district_code",
+   "fieldtype": "Data",
+   "label": "District Code",
+   "reqd": 1
+  }
+ ],
+ "grid_page_length": 50,
+ "in_create": 1,
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-07-20 13:10:42.268840",
+ "modified_by": "Administrator",
+ "module": "Inno Setup",
+ "name": "Address Location",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "All",
+   "share": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

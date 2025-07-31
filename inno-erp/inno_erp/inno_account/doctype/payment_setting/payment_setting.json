@@ -1,0 +1,103 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-07-30 09:56:38.322966",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "payoo_section",
+  "payoo_enable",
+  "payoo_username",
+  "payoo_account_name",
+  "payoo_credential_plain",
+  "column_break_onfx",
+  "payoo_private_key_path",
+  "payoo_public_key_path",
+  "payoo_order_link_notify",
+  "payoo_create_shop_code"
+ ],
+ "fields": [
+  {
+   "fieldname": "payoo_section",
+   "fieldtype": "Section Break",
+   "label": "Payoo"
+  },
+  {
+   "default": "0",
+   "fieldname": "payoo_enable",
+   "fieldtype": "Check",
+   "label": "Enable"
+  },
+  {
+   "depends_on": "payoo_enable",
+   "fieldname": "payoo_username",
+   "fieldtype": "Data",
+   "label": "Username"
+  },
+  {
+   "depends_on": "payoo_enable",
+   "fieldname": "payoo_account_name",
+   "fieldtype": "Data",
+   "label": "Account Name"
+  },
+  {
+   "depends_on": "payoo_enable",
+   "fieldname": "payoo_credential_plain",
+   "fieldtype": "Password",
+   "label": "Credential Plain"
+  },
+  {
+   "depends_on": "payoo_enable",
+   "fieldname": "payoo_private_key_path",
+   "fieldtype": "Attach",
+   "label": "Private Key Path"
+  },
+  {
+   "depends_on": "payoo_enable",
+   "fieldname": "payoo_public_key_path",
+   "fieldtype": "Attach",
+   "label": "Payoo Public Key Path"
+  },
+  {
+   "depends_on": "payoo_enable",
+   "fieldname": "payoo_order_link_notify",
+   "fieldtype": "Data",
+   "label": "Order Link Notify"
+  },
+  {
+   "depends_on": "payoo_enable",
+   "fieldname": "payoo_create_shop_code",
+   "fieldtype": "Data",
+   "label": "Create Shop Code"
+  },
+  {
+   "fieldname": "column_break_onfx",
+   "fieldtype": "Column Break"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-07-30 11:28:41.939785",
+ "modified_by": "Administrator",
+ "module": "Inno Account",
+ "name": "Payment Setting",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

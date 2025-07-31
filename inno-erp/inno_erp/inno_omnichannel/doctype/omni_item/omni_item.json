@@ -1,0 +1,489 @@
+{
+ "actions": [],
+ "allow_import": 1,
+ "allow_rename": 1,
+ "autoname": "field:item_code",
+ "creation": "2025-07-07 13:38:34.747746",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "naming_series",
+  "platform",
+  "item_group",
+  "item_code",
+  "category",
+  "category_html",
+  "brand",
+  "item_name",
+  "stock_uom",
+  "column_break0",
+  "shop",
+  "disabled",
+  "is_stock_item",
+  "has_variants",
+  "waiting_orders",
+  "linked_item",
+  "image",
+  "section_break_wrzz",
+  "variant_of",
+  "variant_based_on",
+  "attributes",
+  "description_tab",
+  "section_break_11",
+  "short_description",
+  "specification_template",
+  "item_specifications",
+  "description",
+  "video_section",
+  "video",
+  "gallery_section",
+  "image_item_1",
+  "attach_image_1",
+  "column_break_nxmz",
+  "image_item_2",
+  "attach_image_2",
+  "column_break_nziy",
+  "image_item_3",
+  "attach_image_3",
+  "column_break_wsql",
+  "image_item_4",
+  "attach_image_4",
+  "column_break_aell",
+  "image_item_5",
+  "attach_image_5",
+  "view_360_section",
+  "360_image_1",
+  "attach_360_image_1",
+  "360_image_5",
+  "attach_360_image_5",
+  "column_break_auxp",
+  "360_image_2",
+  "attach_360_image_2",
+  "360_image_6",
+  "attach_360_image_6",
+  "column_break_mlqa",
+  "360_image_3",
+  "attach_360_image_3",
+  "360_image_7",
+  "attach_360_image_7",
+  "column_break_cefw",
+  "360_image_4",
+  "attach_360_image_4",
+  "360_image_8",
+  "attach_360_image_8"
+ ],
+ "fields": [
+  {
+   "fieldname": "naming_series",
+   "fieldtype": "Select",
+   "hidden": 1,
+   "label": "Series",
+   "options": "OMN-ITEM-.YYYY.-",
+   "set_only_once": 1
+  },
+  {
+   "bold": 1,
+   "fieldname": "item_code",
+   "fieldtype": "Data",
+   "in_global_search": 1,
+   "label": "Item Code",
+   "oldfieldname": "item_code",
+   "oldfieldtype": "Data",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "bold": 1,
+   "fieldname": "item_name",
+   "fieldtype": "Data",
+   "in_global_search": 1,
+   "label": "Item Name",
+   "oldfieldname": "item_name",
+   "oldfieldtype": "Data",
+   "search_index": 1
+  },
+  {
+   "fieldname": "item_group",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_preview": 1,
+   "in_standard_filter": 1,
+   "label": "Item Group",
+   "oldfieldname": "item_group",
+   "oldfieldtype": "Link",
+   "options": "Item Group",
+   "reqd": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "stock_uom",
+   "fieldtype": "Link",
+   "ignore_user_permissions": 1,
+   "label": "Default Unit of Measure",
+   "oldfieldname": "stock_uom",
+   "oldfieldtype": "Link",
+   "options": "UOM",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break0",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "disabled",
+   "fieldtype": "Check",
+   "label": "Disabled",
+   "search_index": 1
+  },
+  {
+   "allow_in_quick_entry": 1,
+   "bold": 1,
+   "default": "1",
+   "depends_on": "eval:!doc.is_fixed_asset",
+   "fieldname": "is_stock_item",
+   "fieldtype": "Check",
+   "label": "Maintain Stock",
+   "oldfieldname": "is_stock_item",
+   "oldfieldtype": "Select"
+  },
+  {
+   "depends_on": "eval:doc.variant_of == null",
+   "fieldname": "section_break_11",
+   "fieldtype": "Section Break",
+   "label": "Description"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Text Editor",
+   "in_preview": 1,
+   "label": "Description",
+   "oldfieldname": "description",
+   "oldfieldtype": "Text"
+  },
+  {
+   "fieldname": "column_break_nxmz",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_nziy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_wsql",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_aell",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "brand",
+   "fieldtype": "Link",
+   "label": "Brand",
+   "options": "Brand"
+  },
+  {
+   "default": "Item Attribute",
+   "depends_on": "has_variants",
+   "fieldname": "variant_based_on",
+   "fieldtype": "Select",
+   "label": "Variant Based On",
+   "options": "Item Attribute"
+  },
+  {
+   "depends_on": "variant_of",
+   "description": "If item is a variant of another item then description, image, pricing, taxes etc will be set from the template unless explicitly specified",
+   "fieldname": "variant_of",
+   "fieldtype": "Link",
+   "ignore_user_permissions": 1,
+   "in_standard_filter": 1,
+   "label": "Variant Of",
+   "options": "Omni Item",
+   "read_only": 1,
+   "search_index": 1,
+   "set_only_once": 1
+  },
+  {
+   "depends_on": "eval:(doc.has_variants || doc.variant_of) && doc.variant_based_on==='Item Attribute'",
+   "fieldname": "attributes",
+   "fieldtype": "Table",
+   "label": "Variant Attributes",
+   "mandatory_depends_on": "eval:(doc.has_variants || doc.variant_of) && doc.variant_based_on==='Item Attribute'",
+   "options": "Item Variant Attribute"
+  },
+  {
+   "default": "0",
+   "depends_on": "eval:!doc.variant_of",
+   "description": "If this item has variants, then it cannot be selected in sales orders etc.",
+   "fieldname": "has_variants",
+   "fieldtype": "Check",
+   "label": "Has Variants"
+  },
+  {
+   "fieldname": "view_360_section",
+   "fieldtype": "Section Break",
+   "label": "View 360"
+  },
+  {
+   "fieldname": "column_break_auxp",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_mlqa",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "column_break_cefw",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "image",
+   "fieldtype": "Attach Image",
+   "hidden": 1,
+   "label": "Image"
+  },
+  {
+   "fieldname": "description_tab",
+   "fieldtype": "Tab Break",
+   "label": "Description"
+  },
+  {
+   "fieldname": "section_break_wrzz",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "linked_item",
+   "fieldtype": "Link",
+   "ignore_user_permissions": 1,
+   "in_list_view": 1,
+   "label": "Linked Item",
+   "options": "Item"
+  },
+  {
+   "fieldname": "video",
+   "fieldtype": "Data",
+   "label": "Video"
+  },
+  {
+   "fieldname": "specification_template",
+   "fieldtype": "Link",
+   "label": "Specification Template",
+   "options": "Specification Template"
+  },
+  {
+   "fieldname": "gallery_section",
+   "fieldtype": "Section Break",
+   "label": "Gallery"
+  },
+  {
+   "fieldname": "image_item_1",
+   "fieldtype": "Image",
+   "options": "attach_image_1"
+  },
+  {
+   "fieldname": "attach_image_1",
+   "fieldtype": "Attach Image",
+   "label": "Image 1"
+  },
+  {
+   "fieldname": "image_item_2",
+   "fieldtype": "Image",
+   "options": "attach_image_2"
+  },
+  {
+   "fieldname": "attach_image_2",
+   "fieldtype": "Attach Image",
+   "label": "Image 2"
+  },
+  {
+   "fieldname": "image_item_3",
+   "fieldtype": "Image",
+   "options": "attach_image_3"
+  },
+  {
+   "fieldname": "attach_image_3",
+   "fieldtype": "Attach Image",
+   "label": "Image 3"
+  },
+  {
+   "fieldname": "image_item_4",
+   "fieldtype": "Image",
+   "options": "attach_image_4"
+  },
+  {
+   "fieldname": "attach_image_4",
+   "fieldtype": "Attach Image",
+   "label": "Image 4"
+  },
+  {
+   "fieldname": "image_item_5",
+   "fieldtype": "Image",
+   "options": "attach_image_5"
+  },
+  {
+   "fieldname": "attach_image_5",
+   "fieldtype": "Attach Image",
+   "label": "Image 5"
+  },
+  {
+   "fieldname": "360_image_1",
+   "fieldtype": "Image",
+   "options": "attach_360_image_1"
+  },
+  {
+   "fieldname": "attach_360_image_1",
+   "fieldtype": "Attach Image",
+   "label": "Image 1"
+  },
+  {
+   "fieldname": "360_image_5",
+   "fieldtype": "Image",
+   "options": "attach_360_image_5"
+  },
+  {
+   "fieldname": "attach_360_image_5",
+   "fieldtype": "Attach Image",
+   "label": "Image 5"
+  },
+  {
+   "fieldname": "360_image_2",
+   "fieldtype": "Image",
+   "options": "attach_360_image_2"
+  },
+  {
+   "fieldname": "attach_360_image_2",
+   "fieldtype": "Attach Image",
+   "label": "Image 2"
+  },
+  {
+   "fieldname": "360_image_6",
+   "fieldtype": "Image",
+   "options": "attach_360_image_6"
+  },
+  {
+   "fieldname": "attach_360_image_6",
+   "fieldtype": "Attach Image",
+   "label": "Image 6"
+  },
+  {
+   "fieldname": "360_image_3",
+   "fieldtype": "Image",
+   "options": "attach_360_image_3"
+  },
+  {
+   "fieldname": "attach_360_image_3",
+   "fieldtype": "Attach Image",
+   "label": "Image 3"
+  },
+  {
+   "fieldname": "360_image_7",
+   "fieldtype": "Image",
+   "options": "attach_360_image_7"
+  },
+  {
+   "fieldname": "attach_360_image_7",
+   "fieldtype": "Attach Image",
+   "label": "Image 7"
+  },
+  {
+   "fieldname": "360_image_4",
+   "fieldtype": "Image",
+   "options": "attach_360_image_4"
+  },
+  {
+   "fieldname": "attach_360_image_4",
+   "fieldtype": "Attach Image",
+   "label": "Image 4"
+  },
+  {
+   "fieldname": "360_image_8",
+   "fieldtype": "Image",
+   "options": "attach_360_image_8"
+  },
+  {
+   "fieldname": "attach_360_image_8",
+   "fieldtype": "Attach Image",
+   "label": "Image 8"
+  },
+  {
+   "depends_on": "waiting_orders",
+   "fieldname": "waiting_orders",
+   "fieldtype": "Int",
+   "label": "Waiting Orders",
+   "non_negative": 1,
+   "read_only": 1
+  },
+  {
+   "fieldname": "short_description",
+   "fieldtype": "Text Editor",
+   "label": "Short Description"
+  },
+  {
+   "fieldname": "video_section",
+   "fieldtype": "Section Break",
+   "label": "Video"
+  },
+  {
+   "default": "Website",
+   "fieldname": "platform",
+   "fieldtype": "Select",
+   "label": "Platform",
+   "options": "Website\nLazada\nTiktok Shop\nShopee",
+   "reqd": 1
+  },
+  {
+   "fieldname": "shop",
+   "fieldtype": "Link",
+   "label": "Shop",
+   "options": "Omni Shop"
+  },
+  {
+   "fieldname": "category_html",
+   "fieldtype": "HTML"
+  },
+  {
+   "fieldname": "category",
+   "fieldtype": "Data",
+   "hidden": 1,
+   "label": "Category"
+  },
+  {
+   "fieldname": "item_specifications",
+   "fieldtype": "Table",
+   "label": "Specifications",
+   "options": "Item Specification"
+  }
+ ],
+ "grid_page_length": 50,
+ "icon": "fa fa-tag",
+ "image_field": "image",
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "make_attachments_public": 1,
+ "modified": "2025-07-25 11:46:30.546296",
+ "modified_by": "Administrator",
+ "module": "Inno OmniChannel",
+ "name": "Omni Item",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "item_name"
+}

@@ -1,0 +1,4178 @@
+[
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Ba Đình",
+        "district_code": "001",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Hoàn Kiếm",
+        "district_code": "002",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Tây Hồ",
+        "district_code": "003",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Long Biên",
+        "district_code": "004",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Cầu Giấy",
+        "district_code": "005",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Đống Đa",
+        "district_code": "006",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Hai Bà Trưng",
+        "district_code": "007",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Hoàng Mai",
+        "district_code": "008",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Thanh Xuân",
+        "district_code": "009",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Sóc Sơn",
+        "district_code": "016",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Đông Anh",
+        "district_code": "017",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Gia Lâm",
+        "district_code": "018",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Nam Từ Liêm",
+        "district_code": "019",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Thanh Trì",
+        "district_code": "020",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Bắc Từ Liêm",
+        "district_code": "021",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Mê Linh",
+        "district_code": "250",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Quận Hà Đông",
+        "district_code": "268",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Thị xã Sơn Tây",
+        "district_code": "269",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Ba Vì",
+        "district_code": "271",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Phúc Thọ",
+        "district_code": "272",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Đan Phượng",
+        "district_code": "273",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Hoài Đức",
+        "district_code": "274",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Quốc Oai",
+        "district_code": "275",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Thạch Thất",
+        "district_code": "276",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Chương Mỹ",
+        "district_code": "277",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Thanh Oai",
+        "district_code": "278",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Thường Tín",
+        "district_code": "279",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Phú Xuyên",
+        "district_code": "280",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Ứng Hòa",
+        "district_code": "281",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nội - Huyện Mỹ Đức",
+        "district_code": "282",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - TP. Hà Giang",
+        "district_code": "024",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Đồng Văn",
+        "district_code": "026",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Mèo Vạc",
+        "district_code": "027",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Yên Minh",
+        "district_code": "028",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Quản Bạ",
+        "district_code": "029",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Vị Xuyên",
+        "district_code": "030",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Bắc Mê",
+        "district_code": "031",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Hoàng Su Phì",
+        "district_code": "032",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Xín Mần",
+        "district_code": "033",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Bắc Quang",
+        "district_code": "034",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Giang - Huyện Quang Bình",
+        "district_code": "035",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - TP. Cao Bằng",
+        "district_code": "040",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Bảo Lâm",
+        "district_code": "042",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Bảo Lạc",
+        "district_code": "043",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Hà Quảng",
+        "district_code": "045",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Trùng Khánh",
+        "district_code": "047",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Hạ Lang",
+        "district_code": "048",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Quảng Hòa",
+        "district_code": "049",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Hoà An",
+        "district_code": "051",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Nguyên Bình",
+        "district_code": "052",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cao Bằng - Huyện Thạch An",
+        "district_code": "053",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - TP. Bắc Kạn",
+        "district_code": "058",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - Huyện Pác Nặm",
+        "district_code": "060",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - Huyện Ba Bể",
+        "district_code": "061",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - Huyện Ngân Sơn",
+        "district_code": "062",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - Huyện Bạch Thông",
+        "district_code": "063",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - Huyện Chợ Đồn",
+        "district_code": "064",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - Huyện Chợ Mới",
+        "district_code": "065",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Kạn - Huyện Na Rì",
+        "district_code": "066",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tuyên Quang - TP. Tuyên Quang",
+        "district_code": "070",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tuyên Quang - Huyện Lâm Bình",
+        "district_code": "071",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tuyên Quang - Huyện Na Hang",
+        "district_code": "072",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tuyên Quang - Huyện Chiêm Hóa",
+        "district_code": "073",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tuyên Quang - Huyện Hàm Yên",
+        "district_code": "074",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tuyên Quang - Huyện Yên Sơn",
+        "district_code": "075",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tuyên Quang - Huyện Sơn Dương",
+        "district_code": "076",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - TP. Lào Cai",
+        "district_code": "080",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Huyện Bát Xát",
+        "district_code": "082",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Huyện Mường Khương",
+        "district_code": "083",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Huyện Si Ma Cai",
+        "district_code": "084",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Huyện Bắc Hà",
+        "district_code": "085",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Huyện Bảo Thắng",
+        "district_code": "086",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Huyện Bảo Yên",
+        "district_code": "087",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Thị xã Sa Pa",
+        "district_code": "088",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lào Cai - Huyện Văn Bàn",
+        "district_code": "089",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - TP. Điện Biên Phủ",
+        "district_code": "094",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Thị xã Mường Lay",
+        "district_code": "095",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Mường Nhé",
+        "district_code": "096",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Mường Chà",
+        "district_code": "097",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Tủa Chùa",
+        "district_code": "098",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Tuần Giáo",
+        "district_code": "099",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Điện Biên",
+        "district_code": "100",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Điện Biên Đông",
+        "district_code": "101",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Mường Ảng",
+        "district_code": "102",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Điện Biên - Huyện Nậm Pồ",
+        "district_code": "103",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - TP. Lai Châu",
+        "district_code": "105",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - Huyện Tam Đường",
+        "district_code": "106",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - Huyện Mường Tè",
+        "district_code": "107",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - Huyện Sìn Hồ",
+        "district_code": "108",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - Huyện Phong Thổ",
+        "district_code": "109",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - Huyện Than Uyên",
+        "district_code": "110",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - Huyện Tân Uyên",
+        "district_code": "111",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lai Châu - Huyện Nậm Nhùn",
+        "district_code": "112",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - TP. Sơn La",
+        "district_code": "116",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Quỳnh Nhai",
+        "district_code": "118",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Thuận Châu",
+        "district_code": "119",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Mường La",
+        "district_code": "120",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Bắc Yên",
+        "district_code": "121",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Phù Yên",
+        "district_code": "122",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Thị xã Mộc Châu",
+        "district_code": "123",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Yên Châu",
+        "district_code": "124",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Mai Sơn",
+        "district_code": "125",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Sông Mã",
+        "district_code": "126",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Sốp Cộp",
+        "district_code": "127",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sơn La - Huyện Vân Hồ",
+        "district_code": "128",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - TP. Yên Bái",
+        "district_code": "132",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Thị xã Nghĩa Lộ",
+        "district_code": "133",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Huyện Lục Yên",
+        "district_code": "135",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Huyện Văn Yên",
+        "district_code": "136",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Huyện Mù Căng Chải",
+        "district_code": "137",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Huyện Trấn Yên",
+        "district_code": "138",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Huyện Trạm Tấu",
+        "district_code": "139",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Huyện Văn Chấn",
+        "district_code": "140",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Yên Bái - Huyện Yên Bình",
+        "district_code": "141",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - TP. Hòa Bình",
+        "district_code": "148",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Đà Bắc",
+        "district_code": "150",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Lương Sơn",
+        "district_code": "152",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Kim Bôi",
+        "district_code": "153",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Cao Phong",
+        "district_code": "154",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Tân Lạc",
+        "district_code": "155",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Mai Châu",
+        "district_code": "156",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Lạc Sơn",
+        "district_code": "157",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Yên Thủy",
+        "district_code": "158",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hoà Bình - Huyện Lạc Thủy",
+        "district_code": "159",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - TP. Thái Nguyên",
+        "district_code": "164",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - TP. Sông Công",
+        "district_code": "165",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - Huyện Định Hóa",
+        "district_code": "167",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - Huyện Phú Lương",
+        "district_code": "168",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - Huyện Đồng Hỷ",
+        "district_code": "169",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - Huyện Võ Nhai",
+        "district_code": "170",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - Huyện Đại Từ",
+        "district_code": "171",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - TP. Phổ Yên",
+        "district_code": "172",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Nguyên - Huyện Phú Bình",
+        "district_code": "173",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - TP. Lạng Sơn",
+        "district_code": "178",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Tràng Định",
+        "district_code": "180",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Bình Gia",
+        "district_code": "181",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Văn Lãng",
+        "district_code": "182",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Cao Lộc",
+        "district_code": "183",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Văn Quan",
+        "district_code": "184",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Bắc Sơn",
+        "district_code": "185",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Hữu Lũng",
+        "district_code": "186",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Chi Lăng",
+        "district_code": "187",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Lộc Bình",
+        "district_code": "188",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lạng Sơn - Huyện Đình Lập",
+        "district_code": "189",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - TP. Hạ Long",
+        "district_code": "193",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - TP. Móng Cái",
+        "district_code": "194",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - TP. Cẩm Phả",
+        "district_code": "195",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - TP. Uông Bí",
+        "district_code": "196",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Huyện Bình Liêu",
+        "district_code": "198",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Huyện Tiên Yên",
+        "district_code": "199",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Huyện Đầm Hà",
+        "district_code": "200",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Huyện Hải Hà",
+        "district_code": "201",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Huyện Ba Chẽ",
+        "district_code": "202",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Huyện Vân Đồn",
+        "district_code": "203",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - TP. Đông Triều",
+        "district_code": "205",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Thị xã Quảng Yên",
+        "district_code": "206",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ninh - Huyện Cô Tô",
+        "district_code": "207",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - TP. Bắc Giang",
+        "district_code": "213",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Huyện Yên Thế",
+        "district_code": "215",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Huyện Tân Yên",
+        "district_code": "216",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Huyện Lạng Giang",
+        "district_code": "217",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Huyện Lục Nam",
+        "district_code": "218",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Huyện Lục Ngạn",
+        "district_code": "219",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Huyện Sơn Động",
+        "district_code": "220",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Thị xã Việt Yên",
+        "district_code": "222",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Huyện Hiệp Hòa",
+        "district_code": "223",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Giang - Thị xã Chũ",
+        "district_code": "224",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - TP. Việt Trì",
+        "district_code": "227",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Thị xã Phú Thọ",
+        "district_code": "228",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Đoan Hùng",
+        "district_code": "230",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Hạ Hoà",
+        "district_code": "231",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Thanh Ba",
+        "district_code": "232",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Phù Ninh",
+        "district_code": "233",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Yên Lập",
+        "district_code": "234",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Cẩm Khê",
+        "district_code": "235",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Tam Nông",
+        "district_code": "236",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Lâm Thao",
+        "district_code": "237",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Thanh Sơn",
+        "district_code": "238",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Thanh Thuỷ",
+        "district_code": "239",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Thọ - Huyện Tân Sơn",
+        "district_code": "240",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - TP. Vĩnh Yên",
+        "district_code": "243",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - TP. Phúc Yên",
+        "district_code": "244",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - Huyện Lập Thạch",
+        "district_code": "246",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - Huyện Tam Dương",
+        "district_code": "247",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - Huyện Tam Đảo",
+        "district_code": "248",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - Huyện Bình Xuyên",
+        "district_code": "249",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - Huyện Yên Lạc",
+        "district_code": "251",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - Huyện Vĩnh Tường",
+        "district_code": "252",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Phúc - Huyện Sông Lô",
+        "district_code": "253",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - TP. Bắc Ninh",
+        "district_code": "256",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - Huyện Yên Phong",
+        "district_code": "258",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - Thị xã Quế Võ",
+        "district_code": "259",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - Huyện Tiên Du",
+        "district_code": "260",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - TP. Từ Sơn",
+        "district_code": "261",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - Thị xã Thuận Thành",
+        "district_code": "262",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - Huyện Gia Bình",
+        "district_code": "263",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bắc Ninh - Huyện Lương Tài",
+        "district_code": "264",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - TP. Hải Dương",
+        "district_code": "288",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - TP. Chí Linh",
+        "district_code": "290",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Nam Sách",
+        "district_code": "291",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Thị xã Kinh Môn",
+        "district_code": "292",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Kim Thành",
+        "district_code": "293",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Thanh Hà",
+        "district_code": "294",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Cẩm Giàng",
+        "district_code": "295",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Bình Giang",
+        "district_code": "296",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Gia Lộc",
+        "district_code": "297",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Tứ Kỳ",
+        "district_code": "298",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Ninh Giang",
+        "district_code": "299",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Dương - Huyện Thanh Miện",
+        "district_code": "300",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận Hồng Bàng",
+        "district_code": "303",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận Ngô Quyền",
+        "district_code": "304",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận Lê Chân",
+        "district_code": "305",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận Hải An",
+        "district_code": "306",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận Kiến An",
+        "district_code": "307",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận Đồ Sơn",
+        "district_code": "308",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận Dương Kinh",
+        "district_code": "309",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - TP. Thuỷ Nguyên",
+        "district_code": "311",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Quận An Dương",
+        "district_code": "312",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Huyện An Lão",
+        "district_code": "313",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Huyện Kiến Thuỵ",
+        "district_code": "314",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Huyện Tiên Lãng",
+        "district_code": "315",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Huyện Vĩnh Bảo",
+        "district_code": "316",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Huyện Cát Hải",
+        "district_code": "317",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hải Phòng - Huyện Bạch Long Vĩ",
+        "district_code": "318",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - TP. Hưng Yên",
+        "district_code": "323",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Văn Lâm",
+        "district_code": "325",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Văn Giang",
+        "district_code": "326",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Yên Mỹ",
+        "district_code": "327",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Thị xã Mỹ Hào",
+        "district_code": "328",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Ân Thi",
+        "district_code": "329",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Khoái Châu",
+        "district_code": "330",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Kim Động",
+        "district_code": "331",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Tiên Lữ",
+        "district_code": "332",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hưng Yên - Huyện Phù Cừ",
+        "district_code": "333",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - TP. Thái Bình",
+        "district_code": "336",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - Huyện Quỳnh Phụ",
+        "district_code": "338",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - Huyện Hưng Hà",
+        "district_code": "339",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - Huyện Đông Hưng",
+        "district_code": "340",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - Huyện Thái Thụy",
+        "district_code": "341",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - Huyện Tiền Hải",
+        "district_code": "342",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - Huyện Kiến Xương",
+        "district_code": "343",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thái Bình - Huyện Vũ Thư",
+        "district_code": "344",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nam - TP. Phủ Lý",
+        "district_code": "347",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nam - Thị xã Duy Tiên",
+        "district_code": "349",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nam - Thị xã Kim Bảng",
+        "district_code": "350",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nam - Huyện Thanh Liêm",
+        "district_code": "351",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nam - Huyện Bình Lục",
+        "district_code": "352",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Nam - Huyện Lý Nhân",
+        "district_code": "353",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - TP. Nam Định",
+        "district_code": "356",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Vụ Bản",
+        "district_code": "359",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Ý Yên",
+        "district_code": "360",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Nghĩa Hưng",
+        "district_code": "361",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Nam Trực",
+        "district_code": "362",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Trực Ninh",
+        "district_code": "363",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Xuân Trường",
+        "district_code": "364",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Giao Thủy",
+        "district_code": "365",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nam Định - Huyện Hải Hậu",
+        "district_code": "366",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Bình - TP. Tam Điệp",
+        "district_code": "370",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Bình - Huyện Nho Quan",
+        "district_code": "372",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Bình - Huyện Gia Viễn",
+        "district_code": "373",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Bình - TP. Hoa Lư",
+        "district_code": "374",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Bình - Huyện Yên Khánh",
+        "district_code": "375",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Bình - Huyện Kim Sơn",
+        "district_code": "376",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Bình - Huyện Yên Mô",
+        "district_code": "377",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - TP. Thanh Hóa",
+        "district_code": "380",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Thị xã Bỉm Sơn",
+        "district_code": "381",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - TP. Sầm Sơn",
+        "district_code": "382",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Mường Lát",
+        "district_code": "384",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Quan Hóa",
+        "district_code": "385",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Bá Thước",
+        "district_code": "386",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Quan Sơn",
+        "district_code": "387",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Lang Chánh",
+        "district_code": "388",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Ngọc Lặc",
+        "district_code": "389",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Cẩm Thủy",
+        "district_code": "390",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Thạch Thành",
+        "district_code": "391",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Hà Trung",
+        "district_code": "392",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Vĩnh Lộc",
+        "district_code": "393",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Yên Định",
+        "district_code": "394",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Thọ Xuân",
+        "district_code": "395",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Thường Xuân",
+        "district_code": "396",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Triệu Sơn",
+        "district_code": "397",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Thiệu Hóa",
+        "district_code": "398",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Hoằng Hóa",
+        "district_code": "399",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Hậu Lộc",
+        "district_code": "400",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Nga Sơn",
+        "district_code": "401",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Như Xuân",
+        "district_code": "402",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Như Thanh",
+        "district_code": "403",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Nông Cống",
+        "district_code": "404",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Huyện Quảng Xương",
+        "district_code": "406",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Thanh Hóa - Thị xã Nghi Sơn",
+        "district_code": "407",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - TP. Vinh",
+        "district_code": "412",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Thị xã Thái Hoà",
+        "district_code": "414",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Quế Phong",
+        "district_code": "415",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Quỳ Châu",
+        "district_code": "416",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Kỳ Sơn",
+        "district_code": "417",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Tương Dương",
+        "district_code": "418",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Nghĩa Đàn",
+        "district_code": "419",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Quỳ Hợp",
+        "district_code": "420",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Quỳnh Lưu",
+        "district_code": "421",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Con Cuông",
+        "district_code": "422",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Tân Kỳ",
+        "district_code": "423",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Anh Sơn",
+        "district_code": "424",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Diễn Châu",
+        "district_code": "425",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Yên Thành",
+        "district_code": "426",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Đô Lương",
+        "district_code": "427",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Thanh Chương",
+        "district_code": "428",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Nghi Lộc",
+        "district_code": "429",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Nam Đàn",
+        "district_code": "430",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Huyện Hưng Nguyên",
+        "district_code": "431",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Nghệ An - Thị xã Hoàng Mai",
+        "district_code": "432",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - TP. Hà Tĩnh",
+        "district_code": "436",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Thị xã Hồng Lĩnh",
+        "district_code": "437",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Hương Sơn",
+        "district_code": "439",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Đức Thọ",
+        "district_code": "440",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Vũ Quang",
+        "district_code": "441",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Nghi Xuân",
+        "district_code": "442",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Can Lộc",
+        "district_code": "443",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Hương Khê",
+        "district_code": "444",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Thạch Hà",
+        "district_code": "445",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Cẩm Xuyên",
+        "district_code": "446",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Huyện Kỳ Anh",
+        "district_code": "447",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hà Tĩnh - Thị xã Kỳ Anh",
+        "district_code": "449",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - TP. Đồng Hới",
+        "district_code": "450",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - Huyện Minh Hóa",
+        "district_code": "452",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - Huyện Tuyên Hóa",
+        "district_code": "453",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - Huyện Quảng Trạch",
+        "district_code": "454",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - Huyện Bố Trạch",
+        "district_code": "455",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - Huyện Quảng Ninh",
+        "district_code": "456",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - Huyện Lệ Thủy",
+        "district_code": "457",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Bình - Thị xã Ba Đồn",
+        "district_code": "458",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - TP. Đông Hà",
+        "district_code": "461",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Thị xã Quảng Trị",
+        "district_code": "462",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Vĩnh Linh",
+        "district_code": "464",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Hướng Hóa",
+        "district_code": "465",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Gio Linh",
+        "district_code": "466",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Đa Krông",
+        "district_code": "467",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Cam Lộ",
+        "district_code": "468",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Triệu Phong",
+        "district_code": "469",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Hải Lăng",
+        "district_code": "470",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Trị - Huyện Cồn Cỏ",
+        "district_code": "471",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Quận Thuận Hóa",
+        "district_code": "474",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Quận Phú Xuân",
+        "district_code": "475",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Thị xã Phong Điền",
+        "district_code": "476",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Huyện Quảng Điền",
+        "district_code": "477",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Huyện Phú Vang",
+        "district_code": "478",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Thị xã Hương Thủy",
+        "district_code": "479",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Thị xã Hương Trà",
+        "district_code": "480",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Huyện A Lưới",
+        "district_code": "481",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Huế - Huyện Phú Lộc",
+        "district_code": "482",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Quận Liên Chiểu",
+        "district_code": "490",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Quận Thanh Khê",
+        "district_code": "491",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Quận Hải Châu",
+        "district_code": "492",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Quận Sơn Trà",
+        "district_code": "493",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Quận Ngũ Hành Sơn",
+        "district_code": "494",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Quận Cẩm Lệ",
+        "district_code": "495",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Huyện Hòa Vang",
+        "district_code": "497",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đà Nẵng - Huyện Hoàng Sa",
+        "district_code": "498",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - TP. Tam Kỳ",
+        "district_code": "502",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - TP. Hội An",
+        "district_code": "503",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Tây Giang",
+        "district_code": "504",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Đông Giang",
+        "district_code": "505",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Đại Lộc",
+        "district_code": "506",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Thị xã Điện Bàn",
+        "district_code": "507",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Duy Xuyên",
+        "district_code": "508",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Quế Sơn",
+        "district_code": "509",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Nam Giang",
+        "district_code": "510",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Phước Sơn",
+        "district_code": "511",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Hiệp Đức",
+        "district_code": "512",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Thăng Bình",
+        "district_code": "513",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Tiên Phước",
+        "district_code": "514",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Bắc Trà My",
+        "district_code": "515",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Nam Trà My",
+        "district_code": "516",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Núi Thành",
+        "district_code": "517",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Nam - Huyện Phú Ninh",
+        "district_code": "518",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - TP. Quảng Ngãi",
+        "district_code": "522",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Bình Sơn",
+        "district_code": "524",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Trà Bồng",
+        "district_code": "525",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Sơn Tịnh",
+        "district_code": "527",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Tư Nghĩa",
+        "district_code": "528",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Sơn Hà",
+        "district_code": "529",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Sơn Tây",
+        "district_code": "530",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Minh Long",
+        "district_code": "531",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Nghĩa Hành",
+        "district_code": "532",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Mộ Đức",
+        "district_code": "533",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Thị xã Đức Phổ",
+        "district_code": "534",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Ba Tơ",
+        "district_code": "535",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Quảng Ngãi - Huyện Lý Sơn",
+        "district_code": "536",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - TP. Quy Nhơn",
+        "district_code": "540",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện An Lão",
+        "district_code": "542",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Thị xã Hoài Nhơn",
+        "district_code": "543",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện Hoài Ân",
+        "district_code": "544",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện Phù Mỹ",
+        "district_code": "545",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện Vĩnh Thạnh",
+        "district_code": "546",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện Tây Sơn",
+        "district_code": "547",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện Phù Cát",
+        "district_code": "548",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Thị xã An Nhơn",
+        "district_code": "549",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện Tuy Phước",
+        "district_code": "550",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Định - Huyện Vân Canh",
+        "district_code": "551",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - TP. Tuy Hoà",
+        "district_code": "555",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Thị xã Sông Cầu",
+        "district_code": "557",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Huyện Đồng Xuân",
+        "district_code": "558",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Huyện Tuy An",
+        "district_code": "559",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Huyện Sơn Hòa",
+        "district_code": "560",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Huyện Sông Hinh",
+        "district_code": "561",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Huyện Tây Hoà",
+        "district_code": "562",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Huyện Phú Hoà",
+        "district_code": "563",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Phú Yên - Thị xã Đông Hòa",
+        "district_code": "564",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - TP. Nha Trang",
+        "district_code": "568",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - TP. Cam Ranh",
+        "district_code": "569",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - Huyện Cam Lâm",
+        "district_code": "570",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - Huyện Vạn Ninh",
+        "district_code": "571",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - Thị xã Ninh Hòa",
+        "district_code": "572",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - Huyện Khánh Vĩnh",
+        "district_code": "573",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - Huyện Diên Khánh",
+        "district_code": "574",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - Huyện Khánh Sơn",
+        "district_code": "575",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Khánh Hòa - Huyện Trường Sa",
+        "district_code": "576",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Thuận - TP. Phan Rang-Tháp Chàm",
+        "district_code": "582",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Thuận - Huyện Bác Ái",
+        "district_code": "584",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Thuận - Huyện Ninh Sơn",
+        "district_code": "585",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Thuận - Huyện Ninh Hải",
+        "district_code": "586",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Thuận - Huyện Ninh Phước",
+        "district_code": "587",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Thuận - Huyện Thuận Bắc",
+        "district_code": "588",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Ninh Thuận - Huyện Thuận Nam",
+        "district_code": "589",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - TP. Phan Thiết",
+        "district_code": "593",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Thị xã La Gi",
+        "district_code": "594",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Tuy Phong",
+        "district_code": "595",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Bắc Bình",
+        "district_code": "596",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Hàm Thuận Bắc",
+        "district_code": "597",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Hàm Thuận Nam",
+        "district_code": "598",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Tánh Linh",
+        "district_code": "599",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Đức Linh",
+        "district_code": "600",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Hàm Tân",
+        "district_code": "601",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Thuận - Huyện Phú Quí",
+        "district_code": "602",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - TP. Kon Tum",
+        "district_code": "608",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Đắk Glei",
+        "district_code": "610",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Ngọc Hồi",
+        "district_code": "611",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Đắk Tô",
+        "district_code": "612",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Kon Plông",
+        "district_code": "613",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Kon Rẫy",
+        "district_code": "614",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Đắk Hà",
+        "district_code": "615",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Sa Thầy",
+        "district_code": "616",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Tu Mơ Rông",
+        "district_code": "617",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kon Tum - Huyện Ia H' Drai",
+        "district_code": "618",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - TP. Pleiku",
+        "district_code": "622",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Thị xã An Khê",
+        "district_code": "623",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Thị xã Ayun Pa",
+        "district_code": "624",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện KBang",
+        "district_code": "625",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Đăk Đoa",
+        "district_code": "626",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Chư Păh",
+        "district_code": "627",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Ia Grai",
+        "district_code": "628",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Mang Yang",
+        "district_code": "629",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Kông Chro",
+        "district_code": "630",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Đức Cơ",
+        "district_code": "631",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Chư Prông",
+        "district_code": "632",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Chư Sê",
+        "district_code": "633",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Đăk Pơ",
+        "district_code": "634",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Ia Pa",
+        "district_code": "635",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Krông Pa",
+        "district_code": "637",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Phú Thiện",
+        "district_code": "638",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Gia Lai - Huyện Chư Pưh",
+        "district_code": "639",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - TP. Buôn Ma Thuột",
+        "district_code": "643",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Thị xã Buôn Hồ",
+        "district_code": "644",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Ea H'leo",
+        "district_code": "645",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Ea Súp",
+        "district_code": "646",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Buôn Đôn",
+        "district_code": "647",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Cư M'gar",
+        "district_code": "648",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Krông Búk",
+        "district_code": "649",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Krông Năng",
+        "district_code": "650",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Ea Kar",
+        "district_code": "651",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện M'Đrắk",
+        "district_code": "652",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Krông Bông",
+        "district_code": "653",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Krông Pắc",
+        "district_code": "654",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Krông A Na",
+        "district_code": "655",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Lắk",
+        "district_code": "656",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Lắk - Huyện Cư Kuin",
+        "district_code": "657",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - TP. Gia Nghĩa",
+        "district_code": "660",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - Huyện Đăk Glong",
+        "district_code": "661",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - Huyện Cư Jút",
+        "district_code": "662",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - Huyện Đắk Mil",
+        "district_code": "663",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - Huyện Krông Nô",
+        "district_code": "664",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - Huyện Đắk Song",
+        "district_code": "665",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - Huyện Đắk R'Lấp",
+        "district_code": "666",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đắk Nông - Huyện Tuy Đức",
+        "district_code": "667",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - TP. Đà Lạt",
+        "district_code": "672",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - TP. Bảo Lộc",
+        "district_code": "673",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Đam Rông",
+        "district_code": "674",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Lạc Dương",
+        "district_code": "675",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Lâm Hà",
+        "district_code": "676",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Đơn Dương",
+        "district_code": "677",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Đức Trọng",
+        "district_code": "678",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Di Linh",
+        "district_code": "679",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Bảo Lâm",
+        "district_code": "680",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Lâm Đồng - Huyện Đạ Tẻh",
+        "district_code": "682",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Thị xã Phước Long",
+        "district_code": "688",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - TP. Đồng Xoài",
+        "district_code": "689",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Thị xã Bình Long",
+        "district_code": "690",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Huyện Bù Gia Mập",
+        "district_code": "691",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Huyện Lộc Ninh",
+        "district_code": "692",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Huyện Bù Đốp",
+        "district_code": "693",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Huyện Hớn Quản",
+        "district_code": "694",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Huyện Đồng Phú",
+        "district_code": "695",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Huyện Bù Đăng",
+        "district_code": "696",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Thị xã Chơn Thành",
+        "district_code": "697",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Phước - Huyện Phú Riềng",
+        "district_code": "698",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - TP. Tây Ninh",
+        "district_code": "703",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Huyện Tân Biên",
+        "district_code": "705",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Huyện Tân Châu",
+        "district_code": "706",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Huyện Dương Minh Châu",
+        "district_code": "707",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Huyện Châu Thành",
+        "district_code": "708",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Thị xã Hòa Thành",
+        "district_code": "709",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Huyện Gò Dầu",
+        "district_code": "710",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Huyện Bến Cầu",
+        "district_code": "711",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tây Ninh - Thị xã Trảng Bàng",
+        "district_code": "712",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - TP. Thủ Dầu Một",
+        "district_code": "718",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - Huyện Bàu Bàng",
+        "district_code": "719",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - Huyện Dầu Tiếng",
+        "district_code": "720",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - TP. Bến Cát",
+        "district_code": "721",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - Huyện Phú Giáo",
+        "district_code": "722",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - TP. Tân Uyên",
+        "district_code": "723",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - TP. Dĩ An",
+        "district_code": "724",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - TP. Thuận An",
+        "district_code": "725",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bình Dương - Huyện Bắc Tân Uyên",
+        "district_code": "726",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - TP. Biên Hòa",
+        "district_code": "731",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - TP. Long Khánh",
+        "district_code": "732",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Tân Phú",
+        "district_code": "734",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Vĩnh Cửu",
+        "district_code": "735",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Định Quán",
+        "district_code": "736",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Trảng Bom",
+        "district_code": "737",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Thống Nhất",
+        "district_code": "738",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Cẩm Mỹ",
+        "district_code": "739",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Long Thành",
+        "district_code": "740",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Xuân Lộc",
+        "district_code": "741",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Nai - Huyện Nhơn Trạch",
+        "district_code": "742",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bà Rịa - Vũng Tàu - TP. Vũng Tàu",
+        "district_code": "747",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bà Rịa - Vũng Tàu - TP. Bà Rịa",
+        "district_code": "748",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bà Rịa - Vũng Tàu - Huyện Châu Đức",
+        "district_code": "750",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bà Rịa - Vũng Tàu - Huyện Xuyên Mộc",
+        "district_code": "751",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bà Rịa - Vũng Tàu - Huyện Long Đất",
+        "district_code": "753",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bà Rịa - Vũng Tàu - TP. Phú Mỹ",
+        "district_code": "754",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bà Rịa - Vũng Tàu - Huyện Côn Đảo",
+        "district_code": "755",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 1",
+        "district_code": "760",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 12",
+        "district_code": "761",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận Gò Vấp",
+        "district_code": "764",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận Bình Thạnh",
+        "district_code": "765",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận Tân Bình",
+        "district_code": "766",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận Tân Phú",
+        "district_code": "767",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận Phú Nhuận",
+        "district_code": "768",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - TP. Thủ Đức",
+        "district_code": "769",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 3",
+        "district_code": "770",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 10",
+        "district_code": "771",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 11",
+        "district_code": "772",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 4",
+        "district_code": "773",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 5",
+        "district_code": "774",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 6",
+        "district_code": "775",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 8",
+        "district_code": "776",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận Bình Tân",
+        "district_code": "777",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Quận 7",
+        "district_code": "778",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Huyện Củ Chi",
+        "district_code": "783",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Huyện Hóc Môn",
+        "district_code": "784",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Huyện Bình Chánh",
+        "district_code": "785",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Huyện Nhà Bè",
+        "district_code": "786",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hồ Chí Minh - Huyện Cần Giờ",
+        "district_code": "787",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - TP. Tân An",
+        "district_code": "794",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Thị xã Kiến Tường",
+        "district_code": "795",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Tân Hưng",
+        "district_code": "796",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Vĩnh Hưng",
+        "district_code": "797",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Mộc Hóa",
+        "district_code": "798",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Tân Thạnh",
+        "district_code": "799",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Thạnh Hóa",
+        "district_code": "800",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Đức Huệ",
+        "district_code": "801",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Đức Hòa",
+        "district_code": "802",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Bến Lức",
+        "district_code": "803",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Thủ Thừa",
+        "district_code": "804",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Tân Trụ",
+        "district_code": "805",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Cần Đước",
+        "district_code": "806",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Cần Giuộc",
+        "district_code": "807",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Long An - Huyện Châu Thành",
+        "district_code": "808",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - TP. Mỹ Tho",
+        "district_code": "815",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - TP. Gò Công",
+        "district_code": "816",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Thị xã Cai Lậy",
+        "district_code": "817",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Tân Phước",
+        "district_code": "818",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Cái Bè",
+        "district_code": "819",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Cai Lậy",
+        "district_code": "820",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Châu Thành",
+        "district_code": "821",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Chợ Gạo",
+        "district_code": "822",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Gò Công Tây",
+        "district_code": "823",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Gò Công Đông",
+        "district_code": "824",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Tiền Giang - Huyện Tân Phú Đông",
+        "district_code": "825",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - TP. Bến Tre",
+        "district_code": "829",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Châu Thành",
+        "district_code": "831",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Chợ Lách",
+        "district_code": "832",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Mỏ Cày Nam",
+        "district_code": "833",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Giồng Trôm",
+        "district_code": "834",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Bình Đại",
+        "district_code": "835",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Ba Tri",
+        "district_code": "836",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Thạnh Phú",
+        "district_code": "837",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bến Tre - Huyện Mỏ Cày Bắc",
+        "district_code": "838",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - TP. Trà Vinh",
+        "district_code": "842",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Huyện Càng Long",
+        "district_code": "844",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Huyện Cầu Kè",
+        "district_code": "845",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Huyện Tiểu Cần",
+        "district_code": "846",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Huyện Châu Thành",
+        "district_code": "847",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Huyện Cầu Ngang",
+        "district_code": "848",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Huyện Trà Cú",
+        "district_code": "849",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Huyện Duyên Hải",
+        "district_code": "850",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Trà Vinh - Thị xã Duyên Hải",
+        "district_code": "851",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - TP. Vĩnh Long",
+        "district_code": "855",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - Huyện Long Hồ",
+        "district_code": "857",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - Huyện Mang Thít",
+        "district_code": "858",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - Huyện Vũng Liêm",
+        "district_code": "859",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - Huyện Tam Bình",
+        "district_code": "860",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - Thị xã Bình Minh",
+        "district_code": "861",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - Huyện Trà Ôn",
+        "district_code": "862",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Vĩnh Long - Huyện Bình Tân",
+        "district_code": "863",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - TP. Cao Lãnh",
+        "district_code": "866",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - TP. Sa Đéc",
+        "district_code": "867",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - TP. Hồng Ngự",
+        "district_code": "868",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Tân Hồng",
+        "district_code": "869",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Hồng Ngự",
+        "district_code": "870",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Tam Nông",
+        "district_code": "871",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Tháp Mười",
+        "district_code": "872",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Cao Lãnh",
+        "district_code": "873",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Thanh Bình",
+        "district_code": "874",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Lấp Vò",
+        "district_code": "875",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Lai Vung",
+        "district_code": "876",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Đồng Tháp - Huyện Châu Thành",
+        "district_code": "877",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - TP. Long Xuyên",
+        "district_code": "883",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - TP. Châu Đốc",
+        "district_code": "884",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Huyện An Phú",
+        "district_code": "886",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Thị xã Tân Châu",
+        "district_code": "887",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Huyện Phú Tân",
+        "district_code": "888",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Huyện Châu Phú",
+        "district_code": "889",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Thị xã Tịnh Biên",
+        "district_code": "890",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Huyện Tri Tôn",
+        "district_code": "891",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Huyện Châu Thành",
+        "district_code": "892",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Huyện Chợ Mới",
+        "district_code": "893",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "An Giang - Huyện Thoại Sơn",
+        "district_code": "894",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - TP. Rạch Giá",
+        "district_code": "899",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - TP. Hà Tiên",
+        "district_code": "900",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Kiên Lương",
+        "district_code": "902",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Hòn Đất",
+        "district_code": "903",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Tân Hiệp",
+        "district_code": "904",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Châu Thành",
+        "district_code": "905",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Giồng Riềng",
+        "district_code": "906",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Gò Quao",
+        "district_code": "907",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện An Biên",
+        "district_code": "908",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện An Minh",
+        "district_code": "909",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Vĩnh Thuận",
+        "district_code": "910",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - TP. Phú Quốc",
+        "district_code": "911",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Kiên Hải",
+        "district_code": "912",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện U Minh Thượng",
+        "district_code": "913",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Kiên Giang - Huyện Giang Thành",
+        "district_code": "914",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Quận Ninh Kiều",
+        "district_code": "916",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Quận Ô Môn",
+        "district_code": "917",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Quận Bình Thuỷ",
+        "district_code": "918",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Quận Cái Răng",
+        "district_code": "919",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Quận Thốt Nốt",
+        "district_code": "923",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Huyện Vĩnh Thạnh",
+        "district_code": "924",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Huyện Cờ Đỏ",
+        "district_code": "925",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Huyện Phong Điền",
+        "district_code": "926",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cần Thơ - Huyện Thới Lai",
+        "district_code": "927",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - TP. Vị Thanh",
+        "district_code": "930",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - TP. Ngã Bảy",
+        "district_code": "931",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - Huyện Châu Thành A",
+        "district_code": "932",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - Huyện Châu Thành",
+        "district_code": "933",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - Huyện Phụng Hiệp",
+        "district_code": "934",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - Huyện Vị Thuỷ",
+        "district_code": "935",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - Huyện Long Mỹ",
+        "district_code": "936",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Hậu Giang - Thị xã Long Mỹ",
+        "district_code": "937",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - TP. Sóc Trăng",
+        "district_code": "941",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Châu Thành",
+        "district_code": "942",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Kế Sách",
+        "district_code": "943",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Mỹ Tú",
+        "district_code": "944",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Cù Lao Dung",
+        "district_code": "945",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Long Phú",
+        "district_code": "946",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Mỹ Xuyên",
+        "district_code": "947",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Thị xã Ngã Năm",
+        "district_code": "948",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Thạnh Trị",
+        "district_code": "949",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Thị xã Vĩnh Châu",
+        "district_code": "950",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Sóc Trăng - Huyện Trần Đề",
+        "district_code": "951",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bạc Liêu - TP. Bạc Liêu",
+        "district_code": "954",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bạc Liêu - Huyện Hồng Dân",
+        "district_code": "956",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bạc Liêu - Huyện Phước Long",
+        "district_code": "957",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bạc Liêu - Huyện Vĩnh Lợi",
+        "district_code": "958",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bạc Liêu - Thị xã Giá Rai",
+        "district_code": "959",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bạc Liêu - Huyện Đông Hải",
+        "district_code": "960",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Bạc Liêu - Huyện Hoà Bình",
+        "district_code": "961",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - TP. Cà Mau",
+        "district_code": "964",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện U Minh",
+        "district_code": "966",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện Thới Bình",
+        "district_code": "967",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện Trần Văn Thời",
+        "district_code": "968",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện Cái Nước",
+        "district_code": "969",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện Đầm Dơi",
+        "district_code": "970",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện Năm Căn",
+        "district_code": "971",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện Phú Tân",
+        "district_code": "972",
+        "country": "Vietnam"
+    },
+    {
+        "doctype": "Address Location",
+        "province_district": "Cà Mau - Huyện Ngọc Hiển",
+        "district_code": "973",
+        "country": "Vietnam"
+    }
+]

@@ -1,0 +1,45 @@
+.frappe-list {
+  .list-row-head {
+    height: 48px;
+    background-color: var(--blue-50);
+    border: 1px solid var(--blue-100);
+    margin: 0;
+    font-weight: var(--weight-bold);
+    border-radius: 0;
+  }
+
+  .level-item {
+    font-weight: var(--weight-bold);
+  }
+
+  .list-row {
+    border-radius: 0;
+  }
+
+  .list-row-container {
+    border: 1px solid var(--gray-50);
+    padding: 0;
+
+    &:hover {
+      border: 1px solid var(--green-100);
+    }
+
+    .level.list-row {
+      &:hover {
+        background-color: var(--green-50);
+      }
+    }
+
+    &:nth-child(odd) .list-row {
+      background-color: var(--gray-25);
+    }
+
+    .list-row-border {
+      border-bottom: none;
+    }
+  }
+
+  .list-paging-area {
+    border: none;
+  }
+}

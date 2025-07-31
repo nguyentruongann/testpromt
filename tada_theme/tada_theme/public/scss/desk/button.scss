@@ -1,0 +1,99 @@
+.btn {
+  --icon-stroke: var(--td-white);
+}
+
+@mixin btn-hover-focus-dark {
+  &:hover {
+    color: var(--td-white) !important;
+    background-color: var(--gray-600) !important;
+  }
+
+  &:active,
+  &:focus {
+    color: var(--td-white) !important;
+    background-color: var(--gray-700) !important;
+  }
+}
+
+.btn.btn-primary {
+  &:hover {
+    color: var(--td-white) !important;
+    background-color: var(--green-600) !important;
+  }
+
+  &:active,
+  &:focus {
+    color: var(--td-white) !important;
+    background-color: var(--green-700) !important;
+  }
+}
+
+.btn.btn-secondary {
+  background-color: var(--td-secondary);
+  color: var(--td-white);
+
+  @include btn-hover-focus-dark;
+}
+
+.btn.btn-default {
+  background-color: var(--td-default);
+  color: var(--td-white);
+
+  @include btn-hover-focus-dark;
+}
+
+.btn-primary-light {
+  background-color: var(--gray-150);
+  color: var(--gray-800);
+
+  .filter-icon.active {
+    --icon-stroke: var(--gray-900);
+  }
+
+  &:hover {
+    .filter-icon.active {
+      --icon-stroke: var(--gray-25) !important;
+    }
+
+    color: var(--td-white) !important;
+    background-color: var(--gray-600) !important;
+  }
+
+  &:active,
+  &:focus {
+    .filter-icon.active {
+      --icon-stroke: var(--gray-25) !important;
+    }
+
+    color: var(--td-white) !important;
+    background-color: var(--gray-700) !important;
+  }
+}
+
+.btn.btn-default.btn-order,
+.btn.btn-default.btn-paging,
+.btn.btn-default.filter-x-button,
+.btn.btn-default.filter-button,
+.btn.btn-default.sort-selector-button {
+  --icon-stroke: var(--gray-900);
+  background-color: var(--gray-50);
+  color: var(--text-color);
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: var(--gray-100) !important;
+    color: var(--text-color) !important;
+  }
+}
+
+.btn.btn-default.btn-paging.btn-info {
+  background-color: var(--gray-150) !important;
+
+  &:hover,
+  &:focus,
+  &:active {
+    background-color: var(--gray-200) !important;
+    color: var(--text-color) !important;
+  }
+}

@@ -1,0 +1,110 @@
+# image: huythua0/python-tool:latest
+
+# stages:
+#   - test
+#   - lint
+#   - security
+#   - deploy
+
+# # test:
+# #   stage: test
+# #   script:
+# #     - echo "🧪 Running unit tests"
+# #     - pytest test/ --cov=addons --cov=test --cov-report=term-missing --cov-report=xml:coverage.xml
+# #   artifacts:
+# #     paths:
+# #       - coverage.xml
+
+# ruff:
+#   stage: lint
+#   script:
+#     - pip install ruff
+#     - echo "🔍 Running Ruff"
+#     - ruff check tada_theme/
+
+# black:
+#   stage: lint
+#   script:
+#     - pip install black
+#     - echo "🎨 Running Black"
+#     - black --check tada_theme/
+
+# mypy:
+#   stage: lint
+#   script:
+#     - pip install mypy
+#     - echo "🔎 Running MyPy"
+#     - mypy tada_theme/
+
+# eslint:
+#   stage: lint
+#   allow_failure: true
+#   script:
+#     - echo "🔍 Installing Node.js and ESLint"
+#     - apt-get update && apt-get install -y curl gnupg
+#     - curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
+#     - apt-get install -y nodejs
+#     - npm install -g eslint
+#     - echo "🔍 Running ESLint"
+#     - |
+#       if [ -d tada_theme ] && find tada_theme -name '*.js' | grep -q .; then
+#         eslint tada_theme --ext .js --config eslint.config.cjs
+#       else
+#         echo "ℹ️ No JavaScript files found, skipping ESLint."
+#       fi
+
+# # xml_lint:
+# #   stage: lint
+# #   allow_failure: true
+# #   script:
+# #     - echo "🔍 Running XML lint"
+# #     - |
+# #       if [ -d tada_theme ] && find tada_theme -name '*.xml' | grep -q .; then
+# #         find tada_theme -name '*.xml' -exec xmllint --noout {} \;
+# #       else
+# #         echo "ℹ️ No XML files found, skipping XML lint."
+# #       fi
+
+# bandit:
+#   stage: security
+#   script:
+#     - echo "🔐 Running Bandit"
+#     - bandit -r tada_theme/ -f html -o bandit_report.html
+#   artifacts:
+#     paths:
+#       - bandit_report.html
+#     expire_in: 1 week
+#   when: always
+
+# safety:
+#   stage: security
+#   script:
+#     - echo "🛡️ Running Safety"
+#     - safety check --full-report || true
+#   when: always
+
+# deploy_frappe:
+#   stage: deploy
+#   script:
+#     - echo "📍 SSH successful"
+#     - cd /home/gitlabci/frappe/frappe_docker/apps/tada_theme
+
+#     - git config --global --add safe.directory /home/gitlabci/frappe/frappe_docker/apps/tada_theme
+
+#     - git pull
+#     - cd ..
+#     - cd ..
+#     - chmod +x build.sh
+#     - ./build.sh
+#   when: always
+#   rules:
+#     - if: '$CI_COMMIT_REF_NAME == "dev"'
+#       when: always
+#     - when: never
+#   # needs:
+#   #   - ruff
+#   #   - black
+#   #   - mypy
+#   #   - eslint
+#   #   - bandit
+#   #   - safety

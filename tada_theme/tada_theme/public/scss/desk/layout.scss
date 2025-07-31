@@ -1,0 +1,49 @@
+.page-head {
+  z-index: 4;
+
+  .drop-shadow {
+    box-shadow: var(--shadow-sm);
+  }
+}
+
+.page-actions {
+  .btn.btn-default {
+    color: var(--td-white);
+    background-color: var(--td-success);
+    --icon-stroke: var(--td-white);
+
+    &:hover {
+      color: var(--td-white) !important;
+      background-color: var(--green-600) !important;
+    }
+
+    &:active,
+    &:focus {
+      color: var(--td-white) !important;
+      background-color: var(--green-700) !important;
+    }
+  }
+}
+
+.layout-side-section {
+  padding-right: 15px;
+}
+
+.layout-main-section {
+
+  .frappe-list,
+  .report-wrapper {
+    padding: 0;
+
+    .result,
+    .no-result,
+    .freeze {
+      min-height: #{"calc(100vh - 245px)"};
+    }
+  }
+
+  .frappe-card,
+  .page-form {
+    border: none;
+  }
+}

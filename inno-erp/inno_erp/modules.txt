@@ -1,0 +1,9 @@
+Inno Core
+Inno Account
+Inno Selling
+Inno Buying
+Inno OmniChat
+Inno OmniChannel
+Inno Stock
+Inno Setup
+Inno HR

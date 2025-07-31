@@ -1,0 +1,105 @@
+html,
+body {
+  ::selection {
+    color: var(--gray-900);
+    background: var(--gray-100);
+  }
+}
+
+body,
+body.full-width {
+  .container {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.main-section {
+  width: 100%;
+
+  @include media-breakpoint-up(md) {
+    width: calc(100% - var(--sidebar-menu-width) - 1px);
+    margin-left: var(--sidebar-menu-width);
+  }
+}
+
+.opacity-1 {
+  opacity: 1 !important;
+}
+
+.form-tabs-list {
+  z-index: 3 !important;
+}
+
+.datatable {
+  --dt-text-light: var(--td-white);
+
+  background-color: var(--td-white);
+}
+
+.text-primary {
+  color: var(--td-primary) !important;
+}
+
+.stock-levels {
+  background-color: var(--td-white);
+}
+
+.widget {
+  border-radius: var(--border-radius);
+}
+
+.modal-content {
+  border-radius: var(--border-radius);
+}
+
+.dropdown-menu {
+  border-radius: var(--border-radius);
+}
+
+.dropdown-item {
+  border-radius: var(--border-radius);
+
+  &:focus,
+  &:active {
+    background-color: var(--gray-200);
+  }
+}
+
+.popover {
+  border-radius: var(--border-radius);
+}
+
+.awesomplete {
+  & > [role="listbox"] {
+    background-color: var(--control-bg);
+
+    & > li,
+    & > div[role="option"] {
+      border: 1px solid var(--control-bg);
+
+      &[aria-selected="true"] {
+        background-color: var(--gray-75);
+        border: 1px solid var(--border-color);
+      }
+
+      &:hover {
+        background-color: var(--gray-75);
+        border: 1px solid var(--border-color);
+      }
+    }
+  }
+}
+
+.icon {
+  stroke-width: 1.5;
+}
+
+.slides-wrapper {
+  width: 70% !important;
+  max-width: 70% !important;
+}
+
+.modal-body .frappe-control[data-fieldtype="Phone"] .selected-phone {
+  top: calc(50% - 12.5px);
+}

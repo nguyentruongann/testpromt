@@ -1,0 +1,48 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2025-03-05 21:13:30.110036",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "spec_name",
+  "column_break_brnr",
+  "spec_value"
+ ],
+ "fields": [
+  {
+   "bold": 1,
+   "fieldname": "spec_name",
+   "fieldtype": "Data",
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "label": "Specification",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_brnr",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "spec_value",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Value"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2025-07-02 11:58:18.075201",
+ "modified_by": "Administrator",
+ "module": "Inno Stock",
+ "name": "Item Specification",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [],
+ "row_format": "Dynamic",
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}

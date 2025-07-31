@@ -1,0 +1,38 @@
+.layout-side-section {
+
+  // padding: 0;
+  .list-sidebar {
+    border-radius: var(--border-radius);
+    padding: 15px;
+    background-color: var(--neutral-white);
+
+    .list-filters input:not([data-fieldtype="Check"]) {
+      background-color: var(--td-white);
+    }
+  }
+
+  .btn {
+    --icon-stroke: var(--gray-900);
+  }
+
+  .btn.btn-default,
+  .btn.btn-secondary {
+    background-color: var(--td-white);
+    border: 1px solid var(--border-color);
+    color: var(--text-color);
+
+    &:focus,
+    &:hover,
+    &:active {
+      background-color: var(--td-white) !important;
+      color: var(--text-color) !important;
+      border: 1px solid var(--gray-200);
+    }
+  }
+
+  .overlay-sidebar {
+    @media (max-width: 991px) {
+      transition-duration: 100ms;
+    }
+  }
+}

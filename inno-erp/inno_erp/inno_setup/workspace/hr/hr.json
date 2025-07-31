@@ -1,0 +1,268 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"IDbLS0X-b8\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Employee</b></span>\",\"col\":12}},{\"id\":\"EMyvxGc-eF\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dashboard\",\"col\":3}},{\"id\":\"zbi5oMpq-n\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee\",\"col\":3}},{\"id\":\"IHJ5eDK6aR\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Group\",\"col\":3}},{\"id\":\"Zw8YpnA3mR\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Attendance</b></span>\",\"col\":12}},{\"id\":\"fAAqm_PEc_\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Attendance\",\"col\":3}},{\"id\":\"f9UC_f5R47\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Attendance Request\",\"col\":3}},{\"id\":\"KS6SoVrE6_\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Checkin\",\"col\":3}},{\"id\":\"PQxw4f9tF0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Attendance Tool\",\"col\":3}},{\"id\":\"KqZ5zjj4VG\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Shift</b></span>\",\"col\":12}},{\"id\":\"5XUFysOUHU\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Shift Assignment\",\"col\":3}},{\"id\":\"1M_EZ95xvC\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Shift Assignment Tool\",\"col\":3}},{\"id\":\"rT2Gx6fbYI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Roster\",\"col\":3}},{\"id\":\"s1eQ_jlhhH\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports</b></span>\",\"col\":12}},{\"id\":\"S4yxfs0wmT\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Monthly Attendance Sheet\",\"col\":3}},{\"id\":\"bgw7tMULMg\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Shift Attendance\",\"col\":3}},{\"id\":\"rK69OyxaIs\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employees working on a holiday\",\"col\":3}},{\"id\":\"1T-qzFR2UU\",\"type\":\"header\",\"data\":{\"text\":\"<span style=\\\"font-size: 18px; letter-spacing: 0.18px;\\\"><b>Expense Claim</b></span>\",\"col\":12}},{\"id\":\"_B9dMqE2VB\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Expense Claim\",\"col\":3}},{\"id\":\"Vm7Han7aXW\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Advance Summary\",\"col\":3}},{\"id\":\"atv1EPxxcn\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Advance\",\"col\":3}},{\"id\":\"O2mopQcF1c\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Unpaid Expense Claim\",\"col\":3}},{\"id\":\"yMG3MfGJ29\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Leave</b></span>\",\"col\":12}},{\"id\":\"bB4I3md11E\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Holiday List\",\"col\":3}},{\"id\":\"9O-jVqjlQl\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Leave Application\",\"col\":3}}]",
+ "creation": "2025-05-23 17:15:11.545967",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "hr",
+ "idx": 0,
+ "indicator_color": "",
+ "is_hidden": 0,
+ "label": "HR",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Other Reports",
+   "link_count": 4,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "Employee",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Employee Information",
+   "link_count": 0,
+   "link_to": "Employee Information",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Employee",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Employee Birthday",
+   "link_count": 0,
+   "link_to": "Employee Birthday",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Employee",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Employees Working on a Holiday",
+   "link_count": 0,
+   "link_to": "Employees working on a holiday",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "Daily Work Summary",
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Daily Work Summary Replies",
+   "link_count": 0,
+   "link_to": "Daily Work Summary Replies",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Expense Claim",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Expense Claim",
+   "link_count": 0,
+   "link_to": "Expense Claim",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee Advance",
+   "link_count": 0,
+   "link_to": "Employee Advance",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Travel Request",
+   "link_count": 0,
+   "link_to": "Travel Request",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-07-08 14:15:28.545730",
+ "modified_by": "Administrator",
+ "module": "Inno Setup",
+ "name": "HR",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 9.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employee Group",
+   "link_to": "Employee Group",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employee Checkin",
+   "link_to": "Employee Checkin",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Attendance",
+   "link_to": "Attendance",
+   "type": "Dashboard"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employees working on a holiday",
+   "link_to": "Employees working on a holiday",
+   "report_ref_doctype": "Attendance",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Monthly Attendance Sheet",
+   "link_to": "Monthly Attendance Sheet",
+   "report_ref_doctype": "Attendance",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Expense Claim",
+   "link_to": "Expense Claim",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Holiday List",
+   "link_to": "Holiday List",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Dashboard",
+   "link_to": "Human Resource",
+   "type": "Dashboard"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employee Attendance Tool",
+   "link_to": "Employee Attendance Tool",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Shift Attendance",
+   "link_to": "Shift Attendance",
+   "report_ref_doctype": "Attendance",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employee Advance Summary",
+   "link_to": "Employee Advance Summary",
+   "report_ref_doctype": "Employee Advance",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Leave Application",
+   "link_to": "Leave Application",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employee Advance",
+   "link_to": "Employee Advance",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "format": "{} Active",
+   "label": "Employee",
+   "link_to": "Employee",
+   "stats_filter": "{\"status\":\"Active\"}",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Roster",
+   "type": "URL",
+   "url": "/hr/roster/"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Unpaid Expense Claim",
+   "link_to": "Unpaid Expense Claim",
+   "report_ref_doctype": "Expense Claim",
+   "type": "Report"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Attendance Request",
+   "link_to": "Attendance Request",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Shift Assignment",
+   "link_to": "Shift Assignment",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Shift Assignment Tool",
+   "link_to": "Shift Assignment Tool",
+   "type": "DocType"
+  }
+ ],
+ "title": "HR"
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0, viewport-fit=cover maximum-scale=1.0, user-scalable=no"
+		/>
+		<title>Inno ERP</title>
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-title" content="Inno ERP" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="white" />
+		<!-- required for setting the status bar bg as white -->
+		<meta name="theme-color" content="#fff" />
+
+		<!-- PWA -->
+		<link rel="icon" type="image/png" sizes="196x196" href="{{ frappe.boot.app_logo_url }}" />
+		<link rel="apple-touch-icon" href="{{ frappe.boot.app_logo_url }}" />
+	</head>
+
+	<body>
+		<script>
+			window.csrf_token = "{{ csrf_token }}";
+			window.site_name = "{{ site_name }}";
+
+			// Enhanced tab closing with multiple fallback methods
+			function closeTab() {
+				window.close();
+			}
+
+			// Execute when DOM is ready
+			if (document.readyState === "loading") {
+				document.addEventListener("DOMContentLoaded", closeTab);
+			} else {
+				closeTab();
+			}
+		</script>
+	</body>
+</html>

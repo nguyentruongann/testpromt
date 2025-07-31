@@ -1,0 +1,1 @@
+import inno_erp.inno_setup.setup_wizard.operations.install_fixtures

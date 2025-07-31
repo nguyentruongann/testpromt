@@ -1,0 +1,37 @@
+{
+	"actions": [],
+	"allow_rename": 1,
+	"creation": "2025-06-16 16:38:05.112279",
+	"doctype": "DocType",
+	"editable_grid": 1,
+	"engine": "InnoDB",
+	"field_order": ["refund_time", "refund_percent"],
+	"fields": [
+		{
+			"fieldname": "refund_time",
+			"fieldtype": "Data",
+			"in_list_view": 1,
+			"label": "Refund Time (Day)"
+		},
+		{
+			"fieldname": "refund_percent",
+			"fieldtype": "Data",
+			"in_list_view": 1,
+			"label": "Refund Percent (%)"
+		}
+	],
+	"grid_page_length": 50,
+	"index_web_pages_for_search": 1,
+	"istable": 1,
+	"links": [],
+	"modified": "2025-06-16 16:51:23.912326",
+	"modified_by": "Administrator",
+	"module": "Inno Account",
+	"name": "Refund Rule",
+	"owner": "Administrator",
+	"permissions": [],
+	"row_format": "Dynamic",
+	"sort_field": "modified",
+	"sort_order": "DESC",
+	"states": []
+}

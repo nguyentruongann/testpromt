@@ -1,0 +1,74 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-06-25 00:09:21.172825",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_rurl",
+  "method",
+  "column_break_cfgn",
+  "date_1",
+  "date_2",
+  "date_3"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_rurl",
+   "fieldtype": "Section Break",
+   "options": "No Reset\nPer Day\nPer Week\nPer Quarter\nPer Month\nPer 6 Month\nPer Year"
+  },
+  {
+   "fieldname": "method",
+   "fieldtype": "Select",
+   "label": "Method",
+   "options": "To Default Rank\nDemote One Rank"
+  },
+  {
+   "fieldname": "column_break_cfgn",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "date_1",
+   "fieldtype": "Date",
+   "label": "Date 1"
+  },
+  {
+   "depends_on": "eval:doc.date_1 != null;",
+   "fieldname": "date_2",
+   "fieldtype": "Date",
+   "label": "Date 2"
+  },
+  {
+   "depends_on": "eval:doc.date_2 != null;",
+   "fieldname": "date_3",
+   "fieldtype": "Date",
+   "label": "Date 3"
+  }
+ ],
+ "grid_page_length": 50,
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-07-07 12:31:43.431334",
+ "modified_by": "Administrator",
+ "module": "Inno Account",
+ "name": "Loyalty Setting",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "row_format": "Dynamic",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
