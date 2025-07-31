@@ -1,0 +1,19 @@
+Google Drive Form Loaded,Biểu mẫu Google Drive đã được tải,
+Are you sure you want to sync all folders from Google Drive?<br><br><strong>Note:</strong> This process may take a few minutes and will download the entire folder structure from Google Drive to ERPNext.,Bạn có chắc chắn muốn đồng bộ hóa tất cả các thư mục từ Google Drive không?<br><br><strong>Lưu ý:</strong> Quá trình này có thể mất vài phút và sẽ tải xuống toàn bộ cấu trúc thư mục từ Google Drive xuống ERPNext.,
+Starting to sync Google Drive...,Bắt đầu đồng bộ hóa Google Drive...,
+Sync Google Drive,Đồng bộ Google Drive,
+<div class="progress-container">
+<div class="progress-message py-3">
+    <i class="fa fa-spin fa-spinner"></i>
+    <span style="margin-left: 10px;">Connecting to Google Drive...</span>
+</div>
+</div>,
+<div class="progress-container">
+<div class="progress-message py-3">
+    <i class="fa fa-spin fa-spinner"></i>
+    <span style="margin-left: 10px;">Đang kết nối với Google Drive...</span>
+</div>
+</div>
+Runs in the background,Chạy nền,
+Sync is running in the background. You will receive a notification when it is complete.,Quá trình đồng bộ đang chạy ở chế độ nền. Bạn sẽ nhận được thông báo khi quá trình hoàn tất.
+An error occurred while syncing. Please check the log for details., Đã xảy ra lỗi khi đồng bộ hóa. Vui lòng kiểm tra nhật ký để biết chi tiết.,
